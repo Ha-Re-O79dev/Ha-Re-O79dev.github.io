@@ -1,4 +1,4 @@
-# About Us
+# About Us:
 __This company is made up of an Attractive Sales Manager and Genius Hacker.  
 If we can dream it, we can do it.__  
 
@@ -11,5 +11,5 @@ __Features:__
  ・Using AI  
  ・24-hour Surveillance  
 
-## Comment
+## Comment:
 Let's Enjoy Your Life!
