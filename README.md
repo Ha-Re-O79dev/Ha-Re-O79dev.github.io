@@ -1,6 +1,6 @@
 # About Us
-This company is made up of an Attractive Sales Manager and Genius Hacker.  
-If we can dream it, we can do it.  
+__This company is made up of an Attractive Sales Manager and Genius Hacker.  
+If we can dream it, we can do it.__  
 
 # Products:
 - Gold Surf
