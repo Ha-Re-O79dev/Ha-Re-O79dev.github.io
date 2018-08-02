@@ -1,5 +1,5 @@
 # About Us
-This company is made up of an Attractive Sales Manager and a Genius Hacker.  
+This company is made up of an Attractive Sales Manager and Genius Hacker.  
 If we can dream it, we can do it.  
 
 # Products:
