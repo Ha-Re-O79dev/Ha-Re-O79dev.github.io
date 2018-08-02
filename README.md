@@ -8,8 +8,8 @@ If we can dream it, we can do it.
 - Mt.Climb
 
 __Product Features__  
-using AI  
-24-hour surveillance  
+-using AI  
+-24-hour surveillance  
 
 ## Comment
 Let's Enjoy Your Life!
