@@ -7,7 +7,7 @@ If we can dream it, we can do it.
 - X Surf
 - Mt.Climb
 
-__Product Features__  
+__Features:__  
  ・Using AI  
  ・24-hour Surveillance  
 
